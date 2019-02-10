@@ -1,0 +1,614 @@
+[16-Apr-2017 16:14:18 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/editpost.php on line 100
+[16-Apr-2017 16:14:24 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/showpost.php on line 100
+[17-Apr-2017 04:23:16 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/editpost.php on line 100
+[18-Apr-2017 09:27:12 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/search-main.php on line 161
+[18-Apr-2017 09:28:28 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/editpost.php on line 100
+[18-Apr-2017 09:28:32 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/editpost.php on line 100
+[21-Apr-2017 13:05:02 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/login.php on line 8
+[21-Apr-2017 14:01:48 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/search-main.php on line 161
+[21-Apr-2017 14:01:54 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/search-main.php on line 161
+[21-Apr-2017 14:04:03 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/hostelassist/public_html/search-main.php on line 172
+[21-Apr-2017 14:04:35 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/hostelassist/public_html/search-main.php on line 216
+[21-Apr-2017 14:04:35 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/hostelassist/public_html/search-main.php on line 215
+[21-Apr-2017 14:04:35 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/hostelassist/public_html/search-main.php on line 216
+[21-Apr-2017 14:05:07 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/hostelassist/public_html/search-main.php on line 172
+[22-Apr-2017 07:08:04 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/login.php on line 11
+[22-Apr-2017 07:10:19 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/admindashboard.php on line 124
+[22-Apr-2017 07:10:19 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/hostelassist/public_html/admindashboard.php on line 124
+[22-Apr-2017 07:11:16 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/admindashboard.php on line 124
+[22-Apr-2017 07:11:16 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/hostelassist/public_html/admindashboard.php on line 124
+[22-Apr-2017 07:11:23 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/admindashboard.php on line 124
+[22-Apr-2017 07:11:23 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/hostelassist/public_html/admindashboard.php on line 124
+[22-Apr-2017 07:13:12 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/dashboard.php on line 108
+[22-Apr-2017 08:19:38 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/search-main.php on line 302
+[22-Apr-2017 08:19:51 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/search-main.php on line 302
+[22-Apr-2017 18:12:07 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/hostelassist/public_html/show-all-users.php on line 31
+[22-Apr-2017 18:12:15 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/hostelassist/public_html/show-all-users.php on line 31
+[22-Apr-2017 18:30:06 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/hostelassist/public_html/editpost.php on line 21
+[23-Apr-2017 04:07:04 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/hostelassist/public_html/search-main.php on line 214
+[23-Apr-2017 04:07:30 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/hostelassist/public_html/search-main.php on line 214
+[23-Apr-2017 05:35:41 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/hostelassist/public_html/show-all-users.php on line 31
+[23-Apr-2017 06:10:12 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/hostelassist/public_html/search-main.php on line 214
+[23-Apr-2017 09:28:43 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/hostelassist/public_html/show-all-users.php on line 31
+[23-Apr-2017 10:01:20 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/hostelassist/public_html/search-main.php on line 214
+[23-Apr-2017 10:16:52 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/hostelassist/public_html/showpost.php on line 21
+[23-Apr-2017 10:17:16 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/hostelassist/public_html/showpost.php on line 21
+[23-Apr-2017 11:04:59 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/showpost.php on line 19
+[23-Apr-2017 11:04:59 UTC] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/hostelassist/public_html/showpost.php on line 21
+[23-Apr-2017 11:05:19 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/showpost.php on line 19
+[23-Apr-2017 11:05:19 UTC] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/hostelassist/public_html/showpost.php on line 21
+[23-Apr-2017 11:06:08 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/hostelassist/public_html/showpost.php on line 21
+[23-Apr-2017 11:09:29 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hostelassist/public_html/showpost.php on line 19
+[23-Apr-2017 11:09:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hostelassist/public_html/showpost.php on line 19
+[23-Apr-2017 11:10:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hostelassist/public_html/showpost.php on line 19
+[23-Apr-2017 11:10:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/hostelassist/public_html/showpost.php on line 19
+[23-Apr-2017 11:35:04 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/hostelassist/public_html/editpost.php on line 21
+[23-Apr-2017 11:35:23 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/hostelassist/public_html/delete-post.php on line 18
+[23-Apr-2017 14:02:21 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/dashboard.php on line 15
+[23-Apr-2017 14:02:21 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/hostelassist/public_html/dashboard.php on line 17
+[23-Apr-2017 14:02:44 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/showpost.php on line 9
+[23-Apr-2017 14:02:44 UTC] PHP Notice:  Undefined variable: row in /home/hostelassist/public_html/showpost.php on line 44
+[23-Apr-2017 14:02:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hostelassist/public_html/showpost.php on line 44
+[23-Apr-2017 14:03:08 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/editpost.php on line 10
+[23-Apr-2017 14:03:08 UTC] PHP Notice:  Undefined variable: row in /home/hostelassist/public_html/editpost.php on line 47
+[23-Apr-2017 14:03:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hostelassist/public_html/editpost.php on line 47
+[23-Apr-2017 14:03:11 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/dashboard.php on line 15
+[23-Apr-2017 14:03:11 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/hostelassist/public_html/dashboard.php on line 17
+[23-Apr-2017 14:04:27 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/testinsert.php on line 55
+[23-Apr-2017 14:04:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/testinsert.php on line 58
+[23-Apr-2017 14:04:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hostelassist/public_html/testinsert.php on line 95
+[23-Apr-2017 14:04:27 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/dashboard.php on line 15
+[23-Apr-2017 14:04:27 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/hostelassist/public_html/dashboard.php on line 17
+[23-Apr-2017 14:04:38 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/showpost.php on line 9
+[23-Apr-2017 14:04:38 UTC] PHP Notice:  Undefined variable: row in /home/hostelassist/public_html/showpost.php on line 44
+[23-Apr-2017 14:04:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hostelassist/public_html/showpost.php on line 44
+[23-Apr-2017 14:06:49 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/showpost.php on line 9
+[23-Apr-2017 14:06:49 UTC] PHP Notice:  Undefined variable: row in /home/hostelassist/public_html/showpost.php on line 44
+[23-Apr-2017 14:06:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hostelassist/public_html/showpost.php on line 44
+[23-Apr-2017 14:07:19 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/showpost.php on line 9
+[23-Apr-2017 14:07:19 UTC] PHP Notice:  Undefined variable: row in /home/hostelassist/public_html/showpost.php on line 44
+[23-Apr-2017 14:07:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hostelassist/public_html/showpost.php on line 44
+[23-Apr-2017 14:08:06 UTC] PHP Notice:  Undefined index: city in /home/hostelassist/public_html/search-main.php on line 14
+[23-Apr-2017 14:08:06 UTC] PHP Notice:  Undefined index: city in /home/hostelassist/public_html/search-main.php on line 208
+[23-Apr-2017 14:08:16 UTC] PHP Notice:  Undefined index: city in /home/hostelassist/public_html/search-main.php on line 14
+[23-Apr-2017 14:08:35 UTC] PHP Notice:  Undefined index: city in /home/hostelassist/public_html/search-main.php on line 14
+[23-Apr-2017 14:08:35 UTC] PHP Notice:  Undefined index: city in /home/hostelassist/public_html/search-main.php on line 208
+[23-Apr-2017 14:08:43 UTC] PHP Notice:  Undefined index: city in /home/hostelassist/public_html/search-main.php on line 14
+[23-Apr-2017 14:08:43 UTC] PHP Notice:  Undefined index: city in /home/hostelassist/public_html/search-main.php on line 208
+[23-Apr-2017 14:09:45 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/admindashboard.php on line 26
+[23-Apr-2017 14:09:45 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/hostelassist/public_html/admindashboard.php:28
+Stack trace:
+#0 /home/hostelassist/public_html/admindashboard.php(28): PDOStatement->execute()
+#1 {main}
+  thrown in /home/hostelassist/public_html/admindashboard.php on line 28
+[23-Apr-2017 14:13:56 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/delete-post.php on line 10
+[23-Apr-2017 14:13:56 UTC] PHP Notice:  Undefined variable: row in /home/hostelassist/public_html/delete-post.php on line 86
+[23-Apr-2017 14:13:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hostelassist/public_html/delete-post.php on line 86
+[23-Apr-2017 14:16:11 UTC] PHP Notice:  Undefined index: name in /home/hostelassist/public_html/signup.php on line 13
+[23-Apr-2017 14:16:11 UTC] PHP Notice:  Undefined index: email in /home/hostelassist/public_html/signup.php on line 14
+[23-Apr-2017 14:16:11 UTC] PHP Notice:  Undefined index: phone in /home/hostelassist/public_html/signup.php on line 15
+[23-Apr-2017 14:16:11 UTC] PHP Notice:  Undefined index: pass in /home/hostelassist/public_html/signup.php on line 16
+[23-Apr-2017 14:16:56 UTC] PHP Notice:  Undefined index: email in /home/hostelassist/public_html/login.php on line 14
+[23-Apr-2017 14:16:56 UTC] PHP Notice:  Undefined index: password in /home/hostelassist/public_html/login.php on line 15
+[23-Apr-2017 14:18:04 UTC] PHP Notice:  Undefined index: email in /home/hostelassist/public_html/login.php on line 14
+[23-Apr-2017 14:18:04 UTC] PHP Notice:  Undefined index: password in /home/hostelassist/public_html/login.php on line 15
+[23-Apr-2017 14:18:05 UTC] PHP Notice:  Undefined index: email in /home/hostelassist/public_html/login.php on line 14
+[23-Apr-2017 14:18:05 UTC] PHP Notice:  Undefined index: password in /home/hostelassist/public_html/login.php on line 15
+[23-Apr-2017 14:18:45 UTC] PHP Notice:  Undefined index: name in /home/hostelassist/public_html/signup.php on line 13
+[23-Apr-2017 14:18:45 UTC] PHP Notice:  Undefined index: email in /home/hostelassist/public_html/signup.php on line 14
+[23-Apr-2017 14:18:45 UTC] PHP Notice:  Undefined index: phone in /home/hostelassist/public_html/signup.php on line 15
+[23-Apr-2017 14:18:45 UTC] PHP Notice:  Undefined index: pass in /home/hostelassist/public_html/signup.php on line 16
+[23-Apr-2017 14:21:02 UTC] PHP Notice:  Undefined index: name in /home/hostelassist/public_html/signup.php on line 13
+[23-Apr-2017 14:21:02 UTC] PHP Notice:  Undefined index: email in /home/hostelassist/public_html/signup.php on line 14
+[23-Apr-2017 14:21:02 UTC] PHP Notice:  Undefined index: phone in /home/hostelassist/public_html/signup.php on line 15
+[23-Apr-2017 14:21:02 UTC] PHP Notice:  Undefined index: pass in /home/hostelassist/public_html/signup.php on line 16
+[23-Apr-2017 14:21:13 UTC] PHP Notice:  Undefined index: name in /home/hostelassist/public_html/signup.php on line 13
+[23-Apr-2017 14:21:13 UTC] PHP Notice:  Undefined index: email in /home/hostelassist/public_html/signup.php on line 14
+[23-Apr-2017 14:21:13 UTC] PHP Notice:  Undefined index: phone in /home/hostelassist/public_html/signup.php on line 15
+[23-Apr-2017 14:21:13 UTC] PHP Notice:  Undefined index: pass in /home/hostelassist/public_html/signup.php on line 16
+[23-Apr-2017 14:29:13 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/admindashboard.php on line 26
+[23-Apr-2017 14:29:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/hostelassist/public_html/admindashboard.php:28
+Stack trace:
+#0 /home/hostelassist/public_html/admindashboard.php(28): PDOStatement->execute()
+#1 {main}
+  thrown in /home/hostelassist/public_html/admindashboard.php on line 28
+[23-Apr-2017 14:29:28 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/admindashboard.php on line 26
+[23-Apr-2017 14:29:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/hostelassist/public_html/admindashboard.php:28
+Stack trace:
+#0 /home/hostelassist/public_html/admindashboard.php(28): PDOStatement->execute()
+#1 {main}
+  thrown in /home/hostelassist/public_html/admindashboard.php on line 28
+[23-Apr-2017 17:02:51 UTC] PHP Notice:  Undefined index: email in /home/hostelassist/public_html/login.php on line 14
+[23-Apr-2017 17:02:51 UTC] PHP Notice:  Undefined index: password in /home/hostelassist/public_html/login.php on line 15
+[23-Apr-2017 17:03:56 UTC] PHP Notice:  Undefined index: email in /home/hostelassist/public_html/login.php on line 14
+[23-Apr-2017 17:03:56 UTC] PHP Notice:  Undefined index: password in /home/hostelassist/public_html/login.php on line 15
+[23-Apr-2017 17:14:41 UTC] PHP Notice:  Undefined index: email in /home/hostelassist/public_html/login.php on line 14
+[23-Apr-2017 17:14:41 UTC] PHP Notice:  Undefined index: password in /home/hostelassist/public_html/login.php on line 15
+[23-Apr-2017 17:14:45 UTC] PHP Notice:  Undefined index: email in /home/hostelassist/public_html/login.php on line 14
+[23-Apr-2017 17:14:45 UTC] PHP Notice:  Undefined index: password in /home/hostelassist/public_html/login.php on line 15
+[23-Apr-2017 17:14:46 UTC] PHP Notice:  Undefined index: email in /home/hostelassist/public_html/login.php on line 14
+[23-Apr-2017 17:14:46 UTC] PHP Notice:  Undefined index: password in /home/hostelassist/public_html/login.php on line 15
+[23-Apr-2017 17:14:47 UTC] PHP Notice:  Undefined index: email in /home/hostelassist/public_html/login.php on line 14
+[23-Apr-2017 17:14:47 UTC] PHP Notice:  Undefined index: password in /home/hostelassist/public_html/login.php on line 15
+[23-Apr-2017 17:15:43 UTC] PHP Notice:  Undefined index: email in /home/hostelassist/public_html/login.php on line 14
+[23-Apr-2017 17:15:43 UTC] PHP Notice:  Undefined index: password in /home/hostelassist/public_html/login.php on line 15
+[23-Apr-2017 17:16:07 UTC] PHP Notice:  Undefined index: email in /home/hostelassist/public_html/login.php on line 14
+[23-Apr-2017 17:16:07 UTC] PHP Notice:  Undefined index: password in /home/hostelassist/public_html/login.php on line 15
+[23-Apr-2017 17:19:08 UTC] PHP Notice:  Undefined index: email in /home/hostelassist/public_html/login.php on line 14
+[23-Apr-2017 17:19:08 UTC] PHP Notice:  Undefined index: password in /home/hostelassist/public_html/login.php on line 15
+[24-Apr-2017 04:05:33 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/dashboard.php on line 15
+[24-Apr-2017 04:05:33 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/hostelassist/public_html/dashboard.php on line 17
+[24-Apr-2017 04:06:25 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/dashboard.php on line 15
+[24-Apr-2017 04:06:25 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/hostelassist/public_html/dashboard.php on line 17
+[24-Apr-2017 04:07:01 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/dashboard.php on line 15
+[24-Apr-2017 04:07:01 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/hostelassist/public_html/dashboard.php on line 17
+[24-Apr-2017 04:07:55 UTC] PHP Notice:  Undefined index: name in /home/hostelassist/public_html/signup.php on line 13
+[24-Apr-2017 04:07:55 UTC] PHP Notice:  Undefined index: email in /home/hostelassist/public_html/signup.php on line 14
+[24-Apr-2017 04:07:55 UTC] PHP Notice:  Undefined index: phone in /home/hostelassist/public_html/signup.php on line 15
+[24-Apr-2017 04:07:55 UTC] PHP Notice:  Undefined index: pass in /home/hostelassist/public_html/signup.php on line 16
+[24-Apr-2017 04:39:59 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/testinsert.php on line 58
+[24-Apr-2017 04:39:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hostelassist/public_html/testinsert.php on line 95
+[24-Apr-2017 04:44:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/testinsert.php on line 58
+[24-Apr-2017 04:44:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hostelassist/public_html/testinsert.php on line 95
+[24-Apr-2017 08:39:52 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:39:52 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:39:52 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 64
+[24-Apr-2017 08:39:52 UTC] PHP Fatal error:  Call to a member function query() on null in /home/hostelassist/public_html/login-register.php on line 64
+[24-Apr-2017 08:40:01 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:40:01 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:40:01 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 64
+[24-Apr-2017 08:40:01 UTC] PHP Fatal error:  Call to a member function query() on null in /home/hostelassist/public_html/login-register.php on line 64
+[24-Apr-2017 08:41:28 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:41:28 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:41:28 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 64
+[24-Apr-2017 08:41:28 UTC] PHP Fatal error:  Call to a member function query() on null in /home/hostelassist/public_html/login-register.php on line 64
+[24-Apr-2017 08:41:48 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:41:48 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:41:48 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 64
+[24-Apr-2017 08:41:48 UTC] PHP Fatal error:  Call to a member function query() on null in /home/hostelassist/public_html/login-register.php on line 64
+[24-Apr-2017 08:42:36 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:42:36 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:42:49 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:42:49 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:42:49 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 64
+[24-Apr-2017 08:42:49 UTC] PHP Fatal error:  Call to a member function query() on null in /home/hostelassist/public_html/login-register.php on line 64
+[24-Apr-2017 08:44:50 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:44:50 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:45:22 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:45:22 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:45:35 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 138
+[24-Apr-2017 08:45:35 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/login-register.php on line 138
+[24-Apr-2017 08:48:10 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:48:10 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:48:10 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 64
+[24-Apr-2017 08:48:10 UTC] PHP Fatal error:  Call to a member function query() on null in /home/hostelassist/public_html/login-register.php on line 64
+[24-Apr-2017 08:48:37 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:48:37 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:48:37 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 64
+[24-Apr-2017 08:48:37 UTC] PHP Fatal error:  Call to a member function query() on null in /home/hostelassist/public_html/login-register.php on line 64
+[24-Apr-2017 08:49:10 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:49:10 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:49:10 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 64
+[24-Apr-2017 08:49:10 UTC] PHP Fatal error:  Call to a member function query() on null in /home/hostelassist/public_html/login-register.php on line 64
+[24-Apr-2017 08:51:50 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:51:50 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:51:50 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 64
+[24-Apr-2017 08:51:50 UTC] PHP Fatal error:  Call to a member function query() on null in /home/hostelassist/public_html/login-register.php on line 64
+[24-Apr-2017 08:51:56 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:51:56 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:51:56 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 64
+[24-Apr-2017 08:51:56 UTC] PHP Fatal error:  Call to a member function query() on null in /home/hostelassist/public_html/login-register.php on line 64
+[24-Apr-2017 08:54:25 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:54:25 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:54:25 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 62
+[24-Apr-2017 08:54:25 UTC] PHP Fatal error:  Call to a member function query() on null in /home/hostelassist/public_html/login-register.php on line 62
+[24-Apr-2017 08:56:15 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:56:15 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:56:15 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 62
+[24-Apr-2017 08:56:15 UTC] PHP Fatal error:  Call to a member function query() on null in /home/hostelassist/public_html/login-register.php on line 62
+[24-Apr-2017 08:56:18 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:56:18 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:56:18 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 62
+[24-Apr-2017 08:56:18 UTC] PHP Fatal error:  Call to a member function query() on null in /home/hostelassist/public_html/login-register.php on line 62
+[24-Apr-2017 08:56:52 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:56:52 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/login-register.php on line 54
+[24-Apr-2017 08:58:06 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 139
+[24-Apr-2017 08:58:06 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/login-register.php on line 139
+[24-Apr-2017 08:58:06 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/login-register.php on line 147
+[24-Apr-2017 08:58:06 UTC] PHP Fatal error:  Call to a member function query() on null in /home/hostelassist/public_html/login-register.php on line 147
+[24-Apr-2017 09:00:23 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/databaseconfig.php on line 8
+[24-Apr-2017 09:00:23 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/databaseconfig.php on line 8
+[24-Apr-2017 09:01:08 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/databaseconfig.php on line 8
+[24-Apr-2017 09:01:11 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/databaseconfig.php on line 8
+[24-Apr-2017 09:01:11 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/databaseconfig.php on line 8
+[24-Apr-2017 09:02:07 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/databaseconfig.php on line 8
+[24-Apr-2017 09:02:17 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/databaseconfig.php on line 8
+[24-Apr-2017 09:02:17 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/databaseconfig.php on line 8
+[24-Apr-2017 13:26:35 UTC] PHP Notice:  Undefined variable: _SESSION in /home/hostelassist/public_html/testinsert.php on line 48
+[24-Apr-2017 13:26:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/testinsert.php on line 51
+[24-Apr-2017 13:26:35 UTC] PHP Notice:  Undefined index: image1 in /home/hostelassist/public_html/testinsert.php on line 57
+[24-Apr-2017 13:26:35 UTC] PHP Notice:  Undefined index: image1 in /home/hostelassist/public_html/testinsert.php on line 61
+[24-Apr-2017 13:26:35 UTC] PHP Notice:  Undefined index: image1 in /home/hostelassist/public_html/testinsert.php on line 67
+[24-Apr-2017 13:26:35 UTC] PHP Notice:  Undefined index: image2 in /home/hostelassist/public_html/testinsert.php on line 57
+[24-Apr-2017 13:26:35 UTC] PHP Notice:  Undefined index: image2 in /home/hostelassist/public_html/testinsert.php on line 61
+[24-Apr-2017 13:26:35 UTC] PHP Notice:  Undefined index: image2 in /home/hostelassist/public_html/testinsert.php on line 67
+[24-Apr-2017 13:26:35 UTC] PHP Notice:  Undefined index: image3 in /home/hostelassist/public_html/testinsert.php on line 57
+[24-Apr-2017 13:26:37 UTC] PHP Notice:  Undefined index: image3 in /home/hostelassist/public_html/testinsert.php on line 61
+[24-Apr-2017 13:26:37 UTC] PHP Notice:  Undefined index: image3 in /home/hostelassist/public_html/testinsert.php on line 67
+[24-Apr-2017 13:26:37 UTC] PHP Notice:  Undefined index: image4 in /home/hostelassist/public_html/testinsert.php on line 57
+[24-Apr-2017 13:26:37 UTC] PHP Notice:  Undefined index: image4 in /home/hostelassist/public_html/testinsert.php on line 61
+[24-Apr-2017 13:26:37 UTC] PHP Notice:  Undefined index: image4 in /home/hostelassist/public_html/testinsert.php on line 67
+[24-Apr-2017 13:26:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hostelassist/public_html/testinsert.php on line 88
+[24-Apr-2017 13:31:17 UTC] PHP Notice:  Undefined variable: _SESSION in /home/hostelassist/public_html/testinsert.php on line 48
+[24-Apr-2017 13:31:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/testinsert.php on line 51
+[24-Apr-2017 13:31:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hostelassist/public_html/testinsert.php on line 88
+[24-Apr-2017 13:34:13 UTC] PHP Notice:  Undefined variable: _SESSION in /home/hostelassist/public_html/testinsert.php on line 48
+[24-Apr-2017 13:34:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/testinsert.php on line 51
+[24-Apr-2017 13:34:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hostelassist/public_html/testinsert.php on line 88
+[24-Apr-2017 13:38:08 UTC] PHP Notice:  Undefined variable: _SESSION in /home/hostelassist/public_html/testinsert.php on line 48
+[24-Apr-2017 13:38:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/testinsert.php on line 51
+[24-Apr-2017 13:38:08 UTC] PHP Notice:  Undefined variable: conn in /home/hostelassist/public_html/testinsert.php on line 88
+[24-Apr-2017 13:38:08 UTC] PHP Fatal error:  Call to a member function exec() on null in /home/hostelassist/public_html/testinsert.php on line 88
+[24-Apr-2017 13:42:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/testinsert.php on line 58
+[24-Apr-2017 13:42:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hostelassist/public_html/testinsert.php on line 95
+[24-Apr-2017 13:57:21 UTC] PHP Fatal error:  Call to undefined method mysqli::setAttribute() in /home/hostelassist/public_html/testinsert.php on line 81
+[24-Apr-2017 13:58:48 UTC] PHP Fatal error:  Call to undefined method mysqli::setAttribute() in /home/hostelassist/public_html/testinsert.php on line 81
+[24-Apr-2017 13:59:46 UTC] PHP Fatal error:  Call to undefined method mysqli::setAttribute() in /home/hostelassist/public_html/testinsert.php on line 78
+[24-Apr-2017 13:59:56 UTC] PHP Fatal error:  Call to undefined method mysqli::setAttribute() in /home/hostelassist/public_html/testinsert.php on line 78
+[24-Apr-2017 16:20:22 UTC] PHP Notice:  Undefined index: type in /home/hostelassist/public_html/add-your-property.php on line 200
+[24-Apr-2017 16:20:22 UTC] PHP Notice:  Undefined index: type in /home/hostelassist/public_html/add-your-property.php on line 201
+[24-Apr-2017 16:20:22 UTC] PHP Notice:  Undefined index: type in /home/hostelassist/public_html/add-your-property.php on line 202
+[24-Apr-2017 16:20:22 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 225
+[24-Apr-2017 16:20:22 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 226
+[24-Apr-2017 16:20:22 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 227
+[24-Apr-2017 16:20:22 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 228
+[24-Apr-2017 16:20:22 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 229
+[24-Apr-2017 16:20:22 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 230
+[24-Apr-2017 16:20:22 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 231
+[24-Apr-2017 16:20:22 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 232
+[24-Apr-2017 16:20:22 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 233
+[24-Apr-2017 16:20:22 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 234
+[24-Apr-2017 16:20:22 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 235
+[24-Apr-2017 16:20:22 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 236
+[24-Apr-2017 16:32:43 UTC] PHP Notice:  Undefined index: type in /home/hostelassist/public_html/add-your-property.php on line 183
+[24-Apr-2017 16:32:43 UTC] PHP Notice:  Undefined index: type in /home/hostelassist/public_html/add-your-property.php on line 184
+[24-Apr-2017 16:32:43 UTC] PHP Notice:  Undefined index: type in /home/hostelassist/public_html/add-your-property.php on line 185
+[24-Apr-2017 16:32:43 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 208
+[24-Apr-2017 16:32:43 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 209
+[24-Apr-2017 16:32:43 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 210
+[24-Apr-2017 16:32:43 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 211
+[24-Apr-2017 16:32:43 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 212
+[24-Apr-2017 16:32:43 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 213
+[24-Apr-2017 16:32:43 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 214
+[24-Apr-2017 16:32:43 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 215
+[24-Apr-2017 16:32:43 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 216
+[24-Apr-2017 16:32:43 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 217
+[24-Apr-2017 16:32:43 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 218
+[24-Apr-2017 16:32:43 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 219
+[24-Apr-2017 16:43:54 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/updatepost.php on line 63
+[24-Apr-2017 16:43:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hostelassist/public_html/updatepost.php on line 103
+[24-Apr-2017 16:44:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/updatepost.php on line 63
+[24-Apr-2017 16:44:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hostelassist/public_html/updatepost.php on line 103
+[24-Apr-2017 16:44:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/updatepost.php on line 63
+[24-Apr-2017 16:44:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hostelassist/public_html/updatepost.php on line 103
+[24-Apr-2017 16:45:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/updatepost.php on line 63
+[24-Apr-2017 16:45:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hostelassist/public_html/updatepost.php on line 103
+[24-Apr-2017 20:03:16 UTC] PHP Notice:  Undefined index: type in /home/hostelassist/public_html/add-your-property.php on line 183
+[24-Apr-2017 20:03:16 UTC] PHP Notice:  Undefined index: type in /home/hostelassist/public_html/add-your-property.php on line 184
+[24-Apr-2017 20:03:16 UTC] PHP Notice:  Undefined index: type in /home/hostelassist/public_html/add-your-property.php on line 185
+[24-Apr-2017 20:03:16 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 208
+[24-Apr-2017 20:03:16 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 209
+[24-Apr-2017 20:03:16 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 210
+[24-Apr-2017 20:03:16 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 211
+[24-Apr-2017 20:03:16 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 212
+[24-Apr-2017 20:03:16 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 213
+[24-Apr-2017 20:03:16 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 214
+[24-Apr-2017 20:03:16 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 215
+[24-Apr-2017 20:03:16 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 216
+[24-Apr-2017 20:03:16 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 217
+[24-Apr-2017 20:03:16 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 218
+[24-Apr-2017 20:03:16 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 219
+[24-Apr-2017 21:11:27 UTC] PHP Notice:  Undefined index: type in /home/hostelassist/public_html/add-your-property.php on line 183
+[24-Apr-2017 21:11:27 UTC] PHP Notice:  Undefined index: type in /home/hostelassist/public_html/add-your-property.php on line 184
+[24-Apr-2017 21:11:27 UTC] PHP Notice:  Undefined index: type in /home/hostelassist/public_html/add-your-property.php on line 185
+[24-Apr-2017 21:11:27 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 208
+[24-Apr-2017 21:11:27 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 209
+[24-Apr-2017 21:11:27 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 210
+[24-Apr-2017 21:11:27 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 211
+[24-Apr-2017 21:11:27 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 212
+[24-Apr-2017 21:11:27 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 213
+[24-Apr-2017 21:11:27 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 214
+[24-Apr-2017 21:11:27 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 215
+[24-Apr-2017 21:11:27 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 216
+[24-Apr-2017 21:11:27 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 217
+[24-Apr-2017 21:11:27 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 218
+[24-Apr-2017 21:11:27 UTC] PHP Notice:  Undefined index: availablemonth in /home/hostelassist/public_html/add-your-property.php on line 219
+[24-Apr-2017 21:34:18 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/databaseconfig.php on line 8
+[24-Apr-2017 21:34:18 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/databaseconfig.php on line 8
+[24-Apr-2017 21:34:18 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/dashboard.php on line 9
+[24-Apr-2017 21:34:29 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/databaseconfig.php on line 8
+[24-Apr-2017 21:34:29 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/databaseconfig.php on line 8
+[24-Apr-2017 21:34:29 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/dashboard.php on line 9
+[24-Apr-2017 21:34:35 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/databaseconfig.php on line 8
+[24-Apr-2017 21:34:40 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/databaseconfig.php on line 8
+[24-Apr-2017 21:34:40 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/databaseconfig.php on line 8
+[24-Apr-2017 21:34:40 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/dashboard.php on line 9
+[25-Apr-2017 05:17:58 UTC] PHP Fatal error:  Call to undefined function PDOUpdate() in /home/hostelassist/public_html/edit.php on line 90
+[25-Apr-2017 09:40:26 UTC] PHP Notice:  Undefined variable: nameErr in /home/hostelassist/public_html/add-new-admin.php on line 156
+[25-Apr-2017 09:40:26 UTC] PHP Notice:  Undefined variable: registeremailErr in /home/hostelassist/public_html/add-new-admin.php on line 168
+[25-Apr-2017 09:40:26 UTC] PHP Notice:  Undefined variable: phoneErr in /home/hostelassist/public_html/add-new-admin.php on line 180
+[25-Apr-2017 09:40:26 UTC] PHP Notice:  Undefined variable: registerpasswordErr in /home/hostelassist/public_html/add-new-admin.php on line 192
+[25-Apr-2017 14:09:03 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/verify.php on line 15
+[25-Apr-2017 14:09:21 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/verify.php on line 15
+[25-Apr-2017 14:10:35 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/verify.php on line 15
+[25-Apr-2017 14:12:02 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/verify.php on line 15
+[25-Apr-2017 14:12:12 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/verify.php on line 15
+[25-Apr-2017 14:12:20 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/verify.php on line 15
+[25-Apr-2017 14:14:07 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/verify.php on line 15
+[25-Apr-2017 14:14:10 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/verify.php on line 15
+[25-Apr-2017 14:14:19 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/verify.php on line 15
+[25-Apr-2017 14:14:24 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/verify.php on line 15
+[25-Apr-2017 14:16:00 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/verify.php on line 15
+[25-Apr-2017 14:17:46 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/verify.php on line 15
+[25-Apr-2017 14:18:04 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/verify.php on line 15
+[25-Apr-2017 14:19:30 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/verify.php on line 16
+[25-Apr-2017 14:19:51 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/verify.php on line 16
+[25-Apr-2017 14:20:19 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/verify.php on line 16
+[25-Apr-2017 14:24:49 UTC] PHP Notice:  Undefined variable: code in /home/hostelassist/public_html/verify.php on line 10
+[25-Apr-2017 14:24:49 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/verify.php on line 12
+[25-Apr-2017 14:24:51 UTC] PHP Notice:  Undefined variable: code in /home/hostelassist/public_html/verify.php on line 10
+[25-Apr-2017 14:24:51 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/verify.php on line 12
+[25-Apr-2017 14:24:54 UTC] PHP Notice:  Undefined variable: code in /home/hostelassist/public_html/verify.php on line 10
+[25-Apr-2017 14:24:54 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/verify.php on line 12
+[25-Apr-2017 14:25:15 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/verify.php on line 12
+[25-Apr-2017 14:25:16 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/verify.php on line 12
+[25-Apr-2017 14:25:17 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/verify.php on line 12
+[25-Apr-2017 14:25:18 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/verify.php on line 12
+[25-Apr-2017 14:25:18 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/verify.php on line 12
+[25-Apr-2017 14:25:31 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/verify.php on line 12
+[25-Apr-2017 14:26:02 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/verify.php on line 12
+[25-Apr-2017 14:28:41 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/verify.php on line 16
+[25-Apr-2017 14:30:59 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/verify.php on line 16
+[25-Apr-2017 14:47:09 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/dashboard.php on line 14
+[25-Apr-2017 14:47:09 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/hostelassist/public_html/dashboard.php on line 16
+[25-Apr-2017 14:57:24 UTC] PHP Fatal error:  Call to undefined function PDOUpdate() in /home/hostelassist/public_html/edit.php on line 90
+[25-Apr-2017 14:57:31 UTC] PHP Fatal error:  Call to undefined function PDOUpdate() in /home/hostelassist/public_html/edit.php on line 90
+[25-Apr-2017 15:37:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/add-your-property.php on line 93
+[25-Apr-2017 15:37:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hostelassist/public_html/add-your-property.php on line 130
+[25-Apr-2017 17:09:57 UTC] PHP Notice:  Undefined variable: nameErr in /home/hostelassist/public_html/add-new-admin.php on line 157
+[25-Apr-2017 17:09:57 UTC] PHP Notice:  Undefined variable: registeremailErr in /home/hostelassist/public_html/add-new-admin.php on line 169
+[25-Apr-2017 17:09:57 UTC] PHP Notice:  Undefined variable: phoneErr in /home/hostelassist/public_html/add-new-admin.php on line 181
+[25-Apr-2017 17:09:57 UTC] PHP Notice:  Undefined variable: registerpasswordErr in /home/hostelassist/public_html/add-new-admin.php on line 193
+[25-Apr-2017 18:37:54 UTC] PHP Notice:  Undefined variable: registeremail in /home/hostelassist/public_html/contact-us.php on line 65
+[25-Apr-2017 18:37:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hostelassist/public_html/index.php on line 46
+[25-Apr-2017 18:38:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hostelassist/public_html/index.php on line 46
+[25-Apr-2017 18:38:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hostelassist/public_html/index.php on line 46
+[25-Apr-2017 18:42:27 UTC] PHP Notice:  Undefined variable: registeremail in /home/hostelassist/public_html/contact-us.php on line 65
+[25-Apr-2017 18:56:55 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/contact-us.php on line 70
+[25-Apr-2017 19:12:36 UTC] PHP Notice:  Undefined variable: nameErr in /home/hostelassist/public_html/add-new-admin.php on line 157
+[25-Apr-2017 19:12:36 UTC] PHP Notice:  Undefined variable: registeremailErr in /home/hostelassist/public_html/add-new-admin.php on line 169
+[25-Apr-2017 19:12:36 UTC] PHP Notice:  Undefined variable: phoneErr in /home/hostelassist/public_html/add-new-admin.php on line 181
+[25-Apr-2017 19:12:36 UTC] PHP Notice:  Undefined variable: registerpasswordErr in /home/hostelassist/public_html/add-new-admin.php on line 193
+[25-Apr-2017 19:31:40 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/contact-us.php on line 73
+[25-Apr-2017 19:31:42 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/contact-us.php on line 73
+[25-Apr-2017 19:31:50 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/contact-us.php on line 73
+[25-Apr-2017 19:32:49 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/contact-us.php on line 71
+[25-Apr-2017 19:43:58 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/contact-us.php on line 71
+[25-Apr-2017 19:44:05 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/contact-us.php on line 71
+[25-Apr-2017 19:44:12 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/contact-us.php on line 71
+[25-Apr-2017 19:44:21 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/contact-us.php on line 71
+[25-Apr-2017 19:44:41 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostelassist/public_html/contact-us.php on line 71
+[25-Apr-2017 20:07:58 UTC] PHP Notice:  Undefined variable: nameErr in /home/hostelassist/public_html/add-new-admin.php on line 157
+[25-Apr-2017 20:07:58 UTC] PHP Notice:  Undefined variable: registeremailErr in /home/hostelassist/public_html/add-new-admin.php on line 169
+[25-Apr-2017 20:07:58 UTC] PHP Notice:  Undefined variable: phoneErr in /home/hostelassist/public_html/add-new-admin.php on line 181
+[25-Apr-2017 20:07:58 UTC] PHP Notice:  Undefined variable: registerpasswordErr in /home/hostelassist/public_html/add-new-admin.php on line 193
+[25-Apr-2017 20:18:33 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/hostelassist/public_html/verify.php on line 18
+[25-Apr-2017 21:35:17 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/admindashboard.php on line 25
+[25-Apr-2017 21:35:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/hostelassist/public_html/admindashboard.php:27
+Stack trace:
+#0 /home/hostelassist/public_html/admindashboard.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/hostelassist/public_html/admindashboard.php on line 27
+[25-Apr-2017 21:36:10 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/dashboard.php on line 13
+[25-Apr-2017 21:36:10 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/hostelassist/public_html/dashboard.php on line 15
+[25-Apr-2017 21:46:35 UTC] PHP Notice:  Undefined index: city in /home/hostelassist/public_html/search-main.php on line 22
+[25-Apr-2017 21:46:35 UTC] PHP Notice:  Undefined index: city in /home/hostelassist/public_html/search-main.php on line 222
+[26-Apr-2017 05:53:30 UTC] PHP Notice:  Undefined variable: nameErr in /home/hostelassist/public_html/add-new-admin.php on line 157
+[26-Apr-2017 05:53:30 UTC] PHP Notice:  Undefined variable: registeremailErr in /home/hostelassist/public_html/add-new-admin.php on line 169
+[26-Apr-2017 05:53:30 UTC] PHP Notice:  Undefined variable: phoneErr in /home/hostelassist/public_html/add-new-admin.php on line 181
+[26-Apr-2017 05:53:30 UTC] PHP Notice:  Undefined variable: registerpasswordErr in /home/hostelassist/public_html/add-new-admin.php on line 193
+[26-Apr-2017 06:44:52 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/dashboard.php on line 13
+[26-Apr-2017 06:44:52 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/hostelassist/public_html/dashboard.php on line 15
+[26-Apr-2017 14:55:16 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/hostelassist/public_html/index.php on line 36
+[26-Apr-2017 14:55:47 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/hostelassist/public_html/index.php on line 36
+[26-Apr-2017 14:56:51 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/hostelassist/public_html/index.php on line 36
+[26-Apr-2017 14:56:55 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/hostelassist/public_html/index.php on line 36
+[26-Apr-2017 14:58:38 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/hostelassist/public_html/index.php on line 36
+[26-Apr-2017 15:00:08 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/hostelassist/public_html/index.php on line 36
+[26-Apr-2017 18:34:57 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/add-your-property.php on line 93
+[26-Apr-2017 18:34:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hostelassist/public_html/add-your-property.php on line 130
+[26-Apr-2017 18:36:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/add-your-property.php on line 93
+[26-Apr-2017 18:36:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hostelassist/public_html/add-your-property.php on line 130
+[26-Apr-2017 18:39:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/add-your-property.php on line 93
+[26-Apr-2017 18:39:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hostelassist/public_html/add-your-property.php on line 130
+[26-Apr-2017 18:40:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/add-your-property.php on line 93
+[26-Apr-2017 18:40:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hostelassist/public_html/add-your-property.php on line 130
+[27-Apr-2017 05:26:44 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/admindashboard.php on line 25
+[27-Apr-2017 05:26:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/hostelassist/public_html/admindashboard.php:27
+Stack trace:
+#0 /home/hostelassist/public_html/admindashboard.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/hostelassist/public_html/admindashboard.php on line 27
+[27-Apr-2017 05:27:20 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/dashboard.php on line 13
+[27-Apr-2017 05:27:20 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/hostelassist/public_html/dashboard.php on line 15
+[29-Apr-2017 13:04:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/add-your-property.php on line 93
+[29-Apr-2017 13:04:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hostelassist/public_html/add-your-property.php on line 130
+[29-Apr-2017 13:10:22 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/add-your-property.php on line 93
+[29-Apr-2017 13:10:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hostelassist/public_html/add-your-property.php on line 130
+[29-Apr-2017 13:12:55 UTC] PHP Notice:  Undefined variable: passwordErr in /home/hostelassist/public_html/password-reset-confirm.php on line 86
+[29-Apr-2017 13:13:54 UTC] PHP Notice:  Undefined variable: passwordErr in /home/hostelassist/public_html/password-reset-confirm.php on line 86
+[29-Apr-2017 13:16:42 UTC] PHP Notice:  Undefined variable: passwordErr in /home/hostelassist/public_html/password-reset-confirm.php on line 86
+[29-Apr-2017 13:19:10 UTC] PHP Notice:  Undefined variable: passwordErr in /home/hostelassist/public_html/password-reset-confirm.php on line 86
+[29-Apr-2017 13:21:48 UTC] PHP Notice:  Undefined variable: passwordErr in /home/hostelassist/public_html/password-reset-confirm.php on line 86
+[29-Apr-2017 13:24:16 UTC] PHP Notice:  Undefined variable: passwordErr in /home/hostelassist/public_html/password-reset-confirm.php on line 86
+[29-Apr-2017 13:25:05 UTC] PHP Notice:  Undefined variable: passwordErr in /home/hostelassist/public_html/password-reset-confirm.php on line 86
+[29-Apr-2017 13:25:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/add-your-property.php on line 93
+[29-Apr-2017 13:25:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hostelassist/public_html/add-your-property.php on line 130
+[29-Apr-2017 13:40:36 UTC] PHP Notice:  Undefined variable: passwordErr in /home/hostelassist/public_html/password-reset-confirm.php on line 87
+[29-Apr-2017 14:48:41 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostelassist/public_html/add-your-property.php on line 93
+[29-Apr-2017 14:48:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hostelassist/public_html/add-your-property.php on line 101
+[29-Apr-2017 15:02:19 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/hostelassist/public_html/showpost.php on line 50
+[29-Apr-2017 15:02:23 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/hostelassist/public_html/showpost.php on line 50
+[29-Apr-2017 15:33:47 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/update-user-profile.php on line 14
+[29-Apr-2017 15:33:47 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/hostelassist/public_html/update-user-profile.php on line 16
+[29-Apr-2017 15:34:45 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/dashboard.php on line 13
+[29-Apr-2017 15:34:45 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/hostelassist/public_html/dashboard.php on line 15
+[30-Apr-2017 06:09:00 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/dashboard.php on line 13
+[30-Apr-2017 06:09:01 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/hostelassist/public_html/dashboard.php on line 15
+[30-Apr-2017 06:09:23 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/update-admin-profile.php on line 27
+[30-Apr-2017 06:09:23 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/hostelassist/public_html/update-admin-profile.php on line 29
+[06-May-2017 07:31:39 UTC] PHP Notice:  Undefined variable: passwordErr in /home/hostelassist/public_html/password-reset-confirm.php on line 87
+[06-May-2017 07:32:23 UTC] PHP Notice:  Undefined variable: passwordErr in /home/hostelassist/public_html/password-reset-confirm.php on line 87
+[06-May-2017 07:32:55 UTC] PHP Notice:  Undefined variable: passwordErr in /home/hostelassist/public_html/password-reset-confirm.php on line 87
+[06-May-2017 07:57:48 UTC] PHP Notice:  Undefined variable: nameErr in /home/hostelassist/public_html/add-new-admin.php on line 157
+[06-May-2017 07:57:48 UTC] PHP Notice:  Undefined variable: registeremailErr in /home/hostelassist/public_html/add-new-admin.php on line 169
+[06-May-2017 07:57:48 UTC] PHP Notice:  Undefined variable: phoneErr in /home/hostelassist/public_html/add-new-admin.php on line 181
+[06-May-2017 07:57:48 UTC] PHP Notice:  Undefined variable: registerpasswordErr in /home/hostelassist/public_html/add-new-admin.php on line 193
+[13-May-2017 04:01:52 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/admindashboard.php on line 25
+[13-May-2017 04:01:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/hostelassist/public_html/admindashboard.php:27
+Stack trace:
+#0 /home/hostelassist/public_html/admindashboard.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/hostelassist/public_html/admindashboard.php on line 27
+[13-May-2017 20:55:50 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/admindashboard.php on line 25
+[13-May-2017 20:55:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/hostelassist/public_html/admindashboard.php:27
+Stack trace:
+#0 /home/hostelassist/public_html/admindashboard.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/hostelassist/public_html/admindashboard.php on line 27
+[14-May-2017 15:34:57 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/admindashboard.php on line 25
+[14-May-2017 15:34:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/hostelassist/public_html/admindashboard.php:27
+Stack trace:
+#0 /home/hostelassist/public_html/admindashboard.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/hostelassist/public_html/admindashboard.php on line 27
+[15-May-2017 09:20:22 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/admindashboard.php on line 25
+[15-May-2017 09:20:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/hostelassist/public_html/admindashboard.php:27
+Stack trace:
+#0 /home/hostelassist/public_html/admindashboard.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/hostelassist/public_html/admindashboard.php on line 27
+[17-May-2017 14:45:02 UTC] PHP Notice:  Undefined variable: nameErr in /home/hostelassist/public_html/add-new-admin.php on line 157
+[17-May-2017 14:45:02 UTC] PHP Notice:  Undefined variable: registeremailErr in /home/hostelassist/public_html/add-new-admin.php on line 169
+[17-May-2017 14:45:02 UTC] PHP Notice:  Undefined variable: phoneErr in /home/hostelassist/public_html/add-new-admin.php on line 181
+[17-May-2017 14:45:02 UTC] PHP Notice:  Undefined variable: registerpasswordErr in /home/hostelassist/public_html/add-new-admin.php on line 193
+[17-May-2017 16:42:04 UTC] PHP Notice:  Undefined variable: passwordErr in /home/hostelassist/public_html/password-reset-confirm.php on line 87
+[17-May-2017 18:39:31 UTC] PHP Notice:  Undefined variable: nameErr in /home/hostelassist/public_html/add-new-admin.php on line 157
+[17-May-2017 18:39:31 UTC] PHP Notice:  Undefined variable: registeremailErr in /home/hostelassist/public_html/add-new-admin.php on line 169
+[17-May-2017 18:39:31 UTC] PHP Notice:  Undefined variable: phoneErr in /home/hostelassist/public_html/add-new-admin.php on line 181
+[17-May-2017 18:39:31 UTC] PHP Notice:  Undefined variable: registerpasswordErr in /home/hostelassist/public_html/add-new-admin.php on line 193
+[17-May-2017 18:53:47 UTC] PHP Notice:  Undefined variable: nameErr in /home/hostelassist/public_html/add-new-admin.php on line 157
+[17-May-2017 18:53:47 UTC] PHP Notice:  Undefined variable: registeremailErr in /home/hostelassist/public_html/add-new-admin.php on line 169
+[17-May-2017 18:53:47 UTC] PHP Notice:  Undefined variable: phoneErr in /home/hostelassist/public_html/add-new-admin.php on line 181
+[17-May-2017 18:53:47 UTC] PHP Notice:  Undefined variable: registerpasswordErr in /home/hostelassist/public_html/add-new-admin.php on line 193
+[17-May-2017 19:12:56 UTC] PHP Notice:  Undefined variable: nameErr in /home/hostelassist/public_html/add-new-admin.php on line 157
+[17-May-2017 19:12:56 UTC] PHP Notice:  Undefined variable: registeremailErr in /home/hostelassist/public_html/add-new-admin.php on line 169
+[17-May-2017 19:12:56 UTC] PHP Notice:  Undefined variable: phoneErr in /home/hostelassist/public_html/add-new-admin.php on line 181
+[17-May-2017 19:12:56 UTC] PHP Notice:  Undefined variable: registerpasswordErr in /home/hostelassist/public_html/add-new-admin.php on line 193
+[17-May-2017 20:29:15 UTC] PHP Notice:  Undefined variable: passwordErr in /home/hostelassist/public_html/password-reset-confirm.php on line 87
+[17-May-2017 21:06:25 UTC] PHP Notice:  Undefined variable: passwordErr in /home/hostelassist/public_html/password-reset-confirm.php on line 87
+[17-May-2017 21:24:10 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/showpost.php on line 9
+[17-May-2017 21:24:10 UTC] PHP Notice:  Undefined variable: row in /home/hostelassist/public_html/showpost.php on line 44
+[17-May-2017 21:24:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hostelassist/public_html/showpost.php on line 44
+[17-May-2017 21:24:26 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/dashboard.php on line 13
+[17-May-2017 21:24:26 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/hostelassist/public_html/dashboard.php on line 15
+[17-May-2017 21:41:08 UTC] PHP Notice:  Undefined variable: nameErr in /home/hostelassist/public_html/add-new-admin.php on line 157
+[17-May-2017 21:41:08 UTC] PHP Notice:  Undefined variable: registeremailErr in /home/hostelassist/public_html/add-new-admin.php on line 169
+[17-May-2017 21:41:08 UTC] PHP Notice:  Undefined variable: phoneErr in /home/hostelassist/public_html/add-new-admin.php on line 181
+[17-May-2017 21:41:08 UTC] PHP Notice:  Undefined variable: registerpasswordErr in /home/hostelassist/public_html/add-new-admin.php on line 193
+[18-May-2017 05:18:43 UTC] PHP Warning:  file_put_contents(/home/hostelassist/public_html/wp-content/deleteme.c6603f70f03b404e8c58d8eaf0cc0752.php): failed to open stream: No such file or directory in /home/hostelassist/public_html/deleteme.c6603f70f03b404e8c58d8eaf0cc0752.php on line 31
+[18-May-2017 07:27:07 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/hostelassist/public_html/showpostdetail.php on line 197
+[18-May-2017 07:27:13 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/hostelassist/public_html/showpostdetail.php on line 197
+[18-May-2017 10:58:03 UTC] PHP Notice:  Undefined variable: nameErr in /home/hostelassist/public_html/add-new-admin.php on line 157
+[18-May-2017 10:58:03 UTC] PHP Notice:  Undefined variable: registeremailErr in /home/hostelassist/public_html/add-new-admin.php on line 169
+[18-May-2017 10:58:03 UTC] PHP Notice:  Undefined variable: phoneErr in /home/hostelassist/public_html/add-new-admin.php on line 181
+[18-May-2017 10:58:03 UTC] PHP Notice:  Undefined variable: registerpasswordErr in /home/hostelassist/public_html/add-new-admin.php on line 193
+[18-May-2017 13:47:34 UTC] PHP Notice:  Undefined variable: passwordErr in /home/hostelassist/public_html/password-reset-confirm.php on line 87
+[18-May-2017 13:49:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hostelassist/public_html/header.php:160) in /home/hostelassist/public_html/login-register.php on line 78
+[18-May-2017 13:50:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hostelassist/public_html/header.php:142) in /home/hostelassist/public_html/login-register.php on line 78
+[18-May-2017 13:50:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hostelassist/public_html/header.php:142) in /home/hostelassist/public_html/login-register.php on line 78
+[18-May-2017 13:51:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hostelassist/public_html/header.php:142) in /home/hostelassist/public_html/login-register.php on line 72
+[18-May-2017 13:51:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hostelassist/public_html/header.php:160) in /home/hostelassist/public_html/login-register.php on line 78
+[18-May-2017 13:52:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hostelassist/public_html/header.php:142) in /home/hostelassist/public_html/login-register.php on line 72
+[18-May-2017 14:06:05 UTC] PHP Notice:  Undefined variable: passwordErr in /home/hostelassist/public_html/password-reset-confirm.php on line 87
+[18-May-2017 14:27:09 UTC] PHP Notice:  Undefined variable: nameErr in /home/hostelassist/public_html/add-new-admin.php on line 157
+[18-May-2017 14:27:09 UTC] PHP Notice:  Undefined variable: registeremailErr in /home/hostelassist/public_html/add-new-admin.php on line 169
+[18-May-2017 14:27:09 UTC] PHP Notice:  Undefined variable: phoneErr in /home/hostelassist/public_html/add-new-admin.php on line 181
+[18-May-2017 14:27:09 UTC] PHP Notice:  Undefined variable: registerpasswordErr in /home/hostelassist/public_html/add-new-admin.php on line 193
+[18-May-2017 15:13:06 UTC] PHP Notice:  Undefined variable: nameErr in /home/hostelassist/public_html/add-new-admin.php on line 157
+[18-May-2017 15:13:06 UTC] PHP Notice:  Undefined variable: registeremailErr in /home/hostelassist/public_html/add-new-admin.php on line 169
+[18-May-2017 15:13:06 UTC] PHP Notice:  Undefined variable: phoneErr in /home/hostelassist/public_html/add-new-admin.php on line 181
+[18-May-2017 15:13:06 UTC] PHP Notice:  Undefined variable: registerpasswordErr in /home/hostelassist/public_html/add-new-admin.php on line 193
+[18-May-2017 18:12:21 UTC] PHP Notice:  Undefined variable: nameErr in /home/hostelassist/public_html/add-new-admin.php on line 157
+[18-May-2017 18:12:21 UTC] PHP Notice:  Undefined variable: registeremailErr in /home/hostelassist/public_html/add-new-admin.php on line 169
+[18-May-2017 18:12:21 UTC] PHP Notice:  Undefined variable: phoneErr in /home/hostelassist/public_html/add-new-admin.php on line 181
+[18-May-2017 18:12:21 UTC] PHP Notice:  Undefined variable: registerpasswordErr in /home/hostelassist/public_html/add-new-admin.php on line 193
+[18-May-2017 19:22:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hostelassist/public_html/login-register.php:7) in /home/hostelassist/public_html/login-register.php on line 72
+[18-May-2017 19:22:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hostelassist/public_html/login-register.php:7) in /home/hostelassist/public_html/login-register.php on line 72
+[18-May-2017 19:23:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hostelassist/public_html/login-register.php:7) in /home/hostelassist/public_html/login-register.php on line 72
+[18-May-2017 19:24:56 UTC] PHP Notice:  Undefined variable: passwordErr in /home/hostelassist/public_html/password-reset-confirm.php on line 87
+[18-May-2017 19:25:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hostelassist/public_html/password-reset-confirm.php:51) in /home/hostelassist/public_html/password-reset-confirm.php on line 53
+[18-May-2017 19:25:20 UTC] PHP Notice:  Undefined variable: passwordErr in /home/hostelassist/public_html/password-reset-confirm.php on line 87
+[18-May-2017 19:25:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hostelassist/public_html/login-register.php:7) in /home/hostelassist/public_html/login-register.php on line 72
+[18-May-2017 19:26:03 UTC] PHP Notice:  Undefined variable: passwordErr in /home/hostelassist/public_html/password-reset-confirm.php on line 87
+[18-May-2017 19:26:07 UTC] PHP Notice:  Undefined variable: passwordErr in /home/hostelassist/public_html/password-reset-confirm.php on line 87
+[18-May-2017 19:27:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hostelassist/public_html/login-register.php:7) in /home/hostelassist/public_html/login-register.php on line 78
+[18-May-2017 19:27:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hostelassist/public_html/login-register.php:7) in /home/hostelassist/public_html/login-register.php on line 72
+[18-May-2017 19:28:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hostelassist/public_html/login-register.php:7) in /home/hostelassist/public_html/login-register.php on line 72
+[18-May-2017 19:29:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hostelassist/public_html/login-register.php:7) in /home/hostelassist/public_html/login-register.php on line 78
+[18-May-2017 19:31:05 UTC] PHP Notice:  Undefined variable: passwordErr in /home/hostelassist/public_html/password-reset-confirm.php on line 87
+[18-May-2017 19:34:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hostelassist/public_html/login-register.php:7) in /home/hostelassist/public_html/login-register.php on line 72
+[18-May-2017 19:34:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hostelassist/public_html/login-register.php:7) in /home/hostelassist/public_html/login-register.php on line 72
+[18-May-2017 19:37:37 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/admindashboard.php on line 25
+[18-May-2017 19:37:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/hostelassist/public_html/admindashboard.php:27
+Stack trace:
+#0 /home/hostelassist/public_html/admindashboard.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/hostelassist/public_html/admindashboard.php on line 27
+[19-May-2017 01:07:05 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/dashboard.php on line 13
+[19-May-2017 01:07:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/hostelassist/public_html/dashboard.php on line 15
+[19-May-2017 01:09:42 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/dashboard.php on line 13
+[19-May-2017 01:09:42 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/hostelassist/public_html/dashboard.php on line 15
+[19-May-2017 02:38:51 UTC] PHP Notice:  Undefined variable: nameErr in /home/hostelassist/public_html/add-new-admin.php on line 157
+[19-May-2017 02:38:51 UTC] PHP Notice:  Undefined variable: registeremailErr in /home/hostelassist/public_html/add-new-admin.php on line 169
+[19-May-2017 02:38:51 UTC] PHP Notice:  Undefined variable: phoneErr in /home/hostelassist/public_html/add-new-admin.php on line 181
+[19-May-2017 02:38:51 UTC] PHP Notice:  Undefined variable: registerpasswordErr in /home/hostelassist/public_html/add-new-admin.php on line 193
+[19-May-2017 03:19:49 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/dashboard.php on line 13
+[19-May-2017 03:19:49 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/hostelassist/public_html/dashboard.php on line 15
+[19-May-2017 12:55:53 UTC] PHP Notice:  Undefined variable: nameErr in /home/hostelassist/public_html/add-new-admin.php on line 157
+[19-May-2017 12:55:53 UTC] PHP Notice:  Undefined variable: registeremailErr in /home/hostelassist/public_html/add-new-admin.php on line 169
+[19-May-2017 12:55:53 UTC] PHP Notice:  Undefined variable: phoneErr in /home/hostelassist/public_html/add-new-admin.php on line 181
+[19-May-2017 12:55:53 UTC] PHP Notice:  Undefined variable: registerpasswordErr in /home/hostelassist/public_html/add-new-admin.php on line 193
+[26-May-2017 22:28:00 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/admindashboard.php on line 25
+[26-May-2017 22:28:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/hostelassist/public_html/admindashboard.php:27
+Stack trace:
+#0 /home/hostelassist/public_html/admindashboard.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/hostelassist/public_html/admindashboard.php on line 27
+[07-Jun-2017 14:56:01 UTC] PHP Notice:  Undefined variable: nameErr in /home/hostelassist/public_html/add-new-admin.php on line 157
+[07-Jun-2017 14:56:01 UTC] PHP Notice:  Undefined variable: registeremailErr in /home/hostelassist/public_html/add-new-admin.php on line 169
+[07-Jun-2017 14:56:01 UTC] PHP Notice:  Undefined variable: phoneErr in /home/hostelassist/public_html/add-new-admin.php on line 181
+[07-Jun-2017 14:56:01 UTC] PHP Notice:  Undefined variable: registerpasswordErr in /home/hostelassist/public_html/add-new-admin.php on line 193
+[26-Jun-2017 14:47:36 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/hostelassist/public_html/databaseconfig.php on line 8
+[04-Jul-2017 11:31:56 UTC] PHP Notice:  Undefined variable: nameErr in /home/hostelassist/public_html/add-new-admin.php on line 157
+[04-Jul-2017 11:31:56 UTC] PHP Notice:  Undefined variable: registeremailErr in /home/hostelassist/public_html/add-new-admin.php on line 169
+[04-Jul-2017 11:31:56 UTC] PHP Notice:  Undefined variable: phoneErr in /home/hostelassist/public_html/add-new-admin.php on line 181
+[04-Jul-2017 11:31:56 UTC] PHP Notice:  Undefined variable: registerpasswordErr in /home/hostelassist/public_html/add-new-admin.php on line 193
+[04-Jul-2017 11:32:49 UTC] PHP Notice:  Trying to get property of non-object in /home/hostelassist/public_html/login-register.php on line 68
+[22-Jul-2017 13:55:34 UTC] PHP Notice:  Undefined variable: nameErr in /home/hostelassist/public_html/add-new-admin.php on line 157
+[22-Jul-2017 13:55:35 UTC] PHP Notice:  Undefined variable: registeremailErr in /home/hostelassist/public_html/add-new-admin.php on line 169
+[22-Jul-2017 13:55:35 UTC] PHP Notice:  Undefined variable: phoneErr in /home/hostelassist/public_html/add-new-admin.php on line 181
+[22-Jul-2017 13:55:35 UTC] PHP Notice:  Undefined variable: registerpasswordErr in /home/hostelassist/public_html/add-new-admin.php on line 193
+[03-Aug-2017 14:38:45 UTC] PHP Notice:  Undefined index: id in /home/hostelassist/public_html/dashboard.php on line 13
+[03-Aug-2017 14:38:45 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/hostelassist/public_html/dashboard.php on line 15
+[03-Aug-2017 15:25:43 UTC] PHP Notice:  Undefined variable: passwordErr in /home/hostelassist/public_html/password-reset-confirm.php on line 87
